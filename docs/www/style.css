@@ -1,9 +1,8 @@
 h1, h2, h3, h4 {
     color: #275282;
 }
-
 body {
-    font-family: "Verdana", serif;
+    font: "DejaVu", serif;
     color: #333333;
 }
 a, a:hover {
