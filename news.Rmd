@@ -1,0 +1,60 @@
+---
+pagetitle: "EF | News"
+---
+
+```{r setup, echo = FALSE, message=FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+library(htmltools)
+library(readxl)
+```
+
+```{r}
+div(
+  br(),
+  img(src = "img/industrial_brain.png",
+        alt = "",
+        style = "border-radius: 100%",
+        width = "100",
+        height = "100"
+        ),
+  div(h1("Industrial AI news"),
+        h3("Upcoming applications of Artificial Intelligence in the manufacturing industry")
+      )
+    )
+```
+   
+***
+   
+#### 17.09.2020, Natural language processing in the corporate world
+
+There are big opportunities for NLP applications in the corporate world. Still enourmous amounts of time are spend trying to recall stuff, trying to classify information and looking for trade offs and sweet spots. Meaning and sense having been continuously being captured in words and data for centuries but here's clearly a tipping point. Computers are now able to transform raw text into some sort of sense, then store and retrieve that sense and assist us in taking decisions with it. doesn't mean a loss of authonomy, its just us climbing the ladder of abstraction and moving into a level that requires more creativity and less execution. Moremore time contemplating and less time doing.
+   
+***
+
+#### 20.09.2020 New book in preparation: Industrial Statistics, Case Studies in Product Development and Manufacturing with R
+
+```{r}
+div(
+  img(src = "img/industrialstats_cover.png",
+        alt = "",
+        style = "border-radius: 100%",
+        width = "200",
+        height = "150"
+        )
+  # ,
+  # div(h1("Book"),
+  #       h3("Case Studies in Product Development and Manufacturing with R")
+  #     )
+    )
+```
+
+This book aims to capitalise on more than two decades of experience in the industry and to collect insights from visits to more than fifty different manufacturing plants. Its examples come from real cases from many different types of products. Some are from consumer goods like watches, cigarettes and plastic bags. Some are from utilities like electricity and gas. Some are from engineering like automotive and machine tools.
+
+[e-book preview](https://j-ramalho.github.io/industRialstatistics/)
+
+
+
+
+
+
+
