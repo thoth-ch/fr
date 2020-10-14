@@ -1,0 +1,21 @@
+---
+title: "Sci FI"
+author: "J.Ramalho"
+date: "01/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### 11.09.2020, Science fiction novels influence innovation and technology
+
+Science Fiction is an immense source of ideas for innovation. Below are some key novels with imaginative applications of artificial intelligence and technical breakthroughs that help us defining directions for future projects.
+
+```{r}
+source("card_functions.R")
+scifi_list <- read_excel("list_scifi.xlsx")
+scifi_cards <- get_cards(scifi_list)
+scifi_cards
+```

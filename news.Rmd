@@ -1,5 +1,5 @@
 ---
-pagetitle: "EF | News"
+pagetitle: "THOTH | News"
 ---
 
 ```{r setup, echo = FALSE, message=FALSE, warning = FALSE}
