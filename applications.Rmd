@@ -1,5 +1,5 @@
 ---
-pagetitle: "THOTH | Applications"
+pagetitle: THOTH | Applications
 ---
 
 ```{r setup, echo = FALSE, message=FALSE, warning = FALSE}
@@ -28,3 +28,19 @@ A demo version can be tested at the demo site:
 [application demo](https://emergingfactory.shinyapps.io/sharprisk/)  
 
 It combines well established risk identification and mitigation approaches with natural language processing capabilities. Risk assessment and categorisation are supported by syntactic and semantic analysis of risk descriptions. 
+
+```{r}
+div(
+  br(),
+  img(src = "img/regulatory-compliance2.jpg",
+        alt = "",
+        style = "border-radius: 100%",
+        width = "100"
+        ),
+    div(h1("regINT"),
+        h4("A new tool to monitor regulatory and intellectual property information")
+      )
+    )
+```
+
+Many companies are still manually processing regulatory and compliance information and there is an opportunity to leverage Data Science techniques to automate, process and analyse automatically these data to assess more effectively risks.
