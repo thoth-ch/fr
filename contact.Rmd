@@ -30,5 +30,19 @@ div(
 
 João has more than 20 years of experience in the manufacturing industry. Having held numerous positions in R&D, Operations and IT at Philip Morris, Rolex and Nestlé, he has an exceptionally large view of how consumer goods are conceived, industrialized and manufactured. He holds a Master in Mechanical Engineering from the [IST](http://ist.pt/), a Project Management certification from [PMI](https://www.pmi.org/) and a Data Science certification from [DataCamp](https://www.datacamp.com/). He's currently specializing in Data Visualization at the Swiss technical university [EPFL](https://www.extensionschool.ch/).
 
+```{r}
+div(
+  br(),
+  img(src = "img/Selim_ID.png",
+        alt = "Sélim Ach",
+        style = "border-radius: 100%"
+        ),
+  div(h1("Sélim Ach"),
+        h3("Economist & Data Scientist")
+      )
+    )
+```
+
+Sélim has more than 15 years of experience acquired in the consumer goods, aviation and consulting services. He held several positions where he was responsible for developing analytical models to transform data into valuable insights. He has a solid understanding of the challenges that many industries are currently facing in the deployment of Business Analytics solutions as well as in the areas of Data Management and Governance. He holds a Master degree in Econometrics from [TSE](https://www.tse-fr.eu) and a certification in Artificial Intelligence & Business Strategy from [MIT](https://executive.mit.edu). After earning a Data Science certification from the Swiss technical university [EPFL](https://www.extensionschool.ch/), he is now specializing in Data Visualization.
 
 
