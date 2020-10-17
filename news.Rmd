@@ -54,7 +54,7 @@ This book aims to capitalize on more than two decades of experience in the indus
 
 
 #### 17.10.2020 Comparison of Data Analysis Tools
-This a question that many corporations are asking: Which business intelligence and data visualization tool should I adopt ? 
+This is a question that many corporations are very often asking: Which business intelligence and data visualization tool should I adopt ? 
 The answer is not straightforward and depends on the business needs,but here are few articles that help you navigating through the various tools that are available.
 
 [Comparison of Data Analysis Tools: Excel, R, Python and BI Tools](https://towardsdatascience.com/comparison-of-data-analysis-tools-excel-r-python-and-bi-tools-6c4685a8ea6f)
