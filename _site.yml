@@ -8,6 +8,8 @@ navbar:
       href: news.html
     - text: "Applications"
       href: applications.html
+    - text: "DataViz"
+      href: dataviz.html
     - text: "Contact"
       href: contact.html
 output:
