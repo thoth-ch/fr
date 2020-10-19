@@ -24,7 +24,7 @@ div(
     )
 ```
 
-***
+
 Data visualization and storytelling is changing the way we communicate data insights – for the better. By shaping our facts using the right techniques we can improve understanding and take appropriate actions leading ultimately to effective decisions. 
 
 Data visualization is an important asset for your stakeholders and decision-makers. 
@@ -71,7 +71,7 @@ Citymapper_long_filter_mar2020_eu <- Citymapper_long %>%
   filter(Date >= as.Date("2020-03-01")) %>% 
   filter (City %in% cities)
 
-ggplot(data = Citymapper_long_filter_mar2020_eu,
+plotmobility <- ggplot(data = Citymapper_long_filter_mar2020_eu,
   mapping = aes(x = Date,y = Index ,group=City,position="dodge")) +
   geom_line(color = "darkblue")+
   facet_wrap(vars(City))+
@@ -90,5 +90,8 @@ ggplot(data = Citymapper_long_filter_mar2020_eu,
   theme(strip.text = element_text(size=10,vjust = 1))+
   theme(axis.title.y = element_text(margin = margin(t = 0, r = 15, b = 0, l = 0),vjust = 1.5))
 
+print(plotmobility)
 ```
+
+
 
