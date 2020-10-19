@@ -35,7 +35,8 @@ div(
   img(src = "img/regulatory-compliance2.jpg",
         alt = "",
         style = "border-radius: 100%",
-        width = "100"
+        width = "100",
+      height = "100"
         ),
     div(h1("regINT"),
         h4("A new tool to monitor regulatory and intellectual property information")
