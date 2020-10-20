@@ -36,7 +36,7 @@ div(
   img(src = "img/Selim_ID_3.png",
         alt = "Sélim Ach",
         style = "border-radius: 100%",
-        #width = "95",
+        width = "90",
         height = "100"
         ),
   div(h1("Sélim Ach"),

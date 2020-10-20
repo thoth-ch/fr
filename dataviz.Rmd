@@ -29,7 +29,7 @@ Data visualization and storytelling is changing the way we communicate data insi
 
 Data visualization is an important asset for your stakeholders and decision-makers. 
 
-### Combining multiple information in a single graph
+### Combining multiple information in a single chart
 
 ##### The case of the mobility index 
 
@@ -53,12 +53,10 @@ Citymapper_long <- Citymapper %>%
   pivot_longer(!Date,names_to = "City", values_to = "Index")
 
 # select only data after March 2020
-
 Citymapper_long_filter_mar2020 <- Citymapper_long %>% 
   filter(Date >= as.Date("2020-03-01"))
 
 # Select only specific cities
-
 nb_city <- Citymapper_long_filter_mar2020 %>% 
   group_by(City) %>% 
   count()
@@ -71,6 +69,7 @@ Citymapper_long_filter_mar2020_eu <- Citymapper_long %>%
   filter(Date >= as.Date("2020-03-01")) %>% 
   filter (City %in% cities)
 
+# Ploting
 plotmobility <- ggplot(data = Citymapper_long_filter_mar2020_eu,
   mapping = aes(x = Date,y = Index ,group=City,position="dodge")) +
   geom_line(color = "darkblue")+
@@ -90,6 +89,7 @@ plotmobility <- ggplot(data = Citymapper_long_filter_mar2020_eu,
   theme(strip.text = element_text(size=10,vjust = 1))+
   theme(axis.title.y = element_text(margin = margin(t = 0, r = 15, b = 0, l = 0),vjust = 1.5))
 
+# Printing output
 print(plotmobility)
 ```
 
