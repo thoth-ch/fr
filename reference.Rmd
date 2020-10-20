@@ -11,7 +11,7 @@ library(htmltools)
 
 div(
   br(),
-  img(src = "data_analytics.jpeg",
+  img(src = "img/data-analytics-books.jpg",
         alt = "",
         style = "border-radius: 100%",
         width = "100",
