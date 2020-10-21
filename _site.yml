@@ -10,8 +10,6 @@ navbar:
       href: applications.html
     - text: "DataViz"
       href: dataviz.html
-    - text: "Reference"
-      href: reference.html
     - text: "Contact"
       href: contact.html
 output:

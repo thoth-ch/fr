@@ -52,6 +52,7 @@ This book aims to capitalize on more than two decades of experience in the indus
 
 [e-book preview](https://j-ramalho.github.io/industRialstatistics/)
 
+***
 
 #### 17.10.2020 Comparison of Data Analysis Tools
 This is a question that many corporations are very often asking: Which business intelligence and data visualization tool should I adopt ? 
@@ -63,5 +64,23 @@ The answer is not straightforward and depends on the business needs,but here are
 
 [R Shiny vs. Power BI](https://www.musgraveanalytics.com/blog/2018/1/19/r-shiny-vs-power-bi)
 
+***
+
+#### 21.10.2020 References
+[Econometrics](https://www.econometrics-with-r.org/index.html)
+
+This book is a good reference for anyone interested by learning how to apply Data Science, in particular Econometric techniques in the areas of time series analysis and dynamic causal effects, which can be particularly relevant when developing forecast models across industries.
+
+```{r}
+div(
+  br(),
+  img(src = "img/eco_book.png",
+        alt = "",
+        #style = "border-radius: 100%",
+        #width = "100",
+        height = "100"
+        ),
+      )
+```
 
 

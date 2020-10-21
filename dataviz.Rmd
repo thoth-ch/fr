@@ -27,14 +27,13 @@ div(
 
 Data visualization and storytelling is changing the way we communicate data insights – for the better. By shaping our facts using the right techniques we can improve understanding and take appropriate actions leading ultimately to effective decisions. 
 
-Data visualization is an important asset for your stakeholders and decision-makers. 
+Data visualization is an important asset for your stakeholders and decision-makers but what is our added value?
 
-In this section, we will be presenting few examples of powerful visualization where charts can be combined together to produce insightful information.  
+The flexibility of our solutions and the ability to provide you tailor-made solutions to address your business needs.
 
-### Combining multiple information in a single chart
+### Static visualization and automatic reporting solutions
 
-##### The case of the mobility index 
-
+##### Case study: tracking of the the mobility index 
 This graph indicates the evolution of the mobility index in major European cities based on data collected by "Citymapper".  It allows to understand at a glance how fast citizens are moving in their cities after the lockdown period. 
 
 ```{r}
@@ -95,5 +94,6 @@ plotmobility <- ggplot(data = Citymapper_long_filter_mar2020_eu,
 print(plotmobility)
 ```
 
+### Dynamic visualization solutions and development of dashboards
 
-
+##### Case study: Patents and IP
