@@ -29,6 +29,8 @@ Data visualization and storytelling is changing the way we communicate data insi
 
 Data visualization is an important asset for your stakeholders and decision-makers. 
 
+In this section, we will be presenting few examples of powerful visualization where charts can be combined together to produce insightful information.  
+
 ### Combining multiple information in a single chart
 
 ##### The case of the mobility index 
