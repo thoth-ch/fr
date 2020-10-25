@@ -28,7 +28,7 @@ div(
     )
 ```
 
-João has more than 20 years of experience in the manufacturing industry. Having held numerous positions in R&D, Operations and IT at Philip Morris, Rolex and Nestlé, he has an exceptionally large view of how consumer goods are conceived, industrialized and manufactured. He holds a Master in Mechanical Engineering from the [IST](http://ist.pt/), a Project Management certification from [PMI](https://www.pmi.org/) and a Data Science certification from [DataCamp](https://www.datacamp.com/). He's currently specializing in Data Visualization at the Swiss technical university [EPFL](https://www.extensionschool.ch/).
+João a plus de 20 ans d'expérience dans l'industrie dans nombreuses positions dans la R&D, les opérations et les Systèmes d'Information. Ayant passé successivement par Philip Morris, Rolex et Nestlé, il a une vue exceptionnellement large de la manière dont les produits de consomation sont conçus, industrialisés et fabriqués. Avec un Master en Ingénierie Mechanique du [IST](http://ist.pt/), une certification en gestion de project par [PMI](https://www.pmi.org/) et une certification en Data Science par [DataCamp](https://www.datacamp.com/) il se specialise à présent en Visualisation de Données à l'[EPFL](https://www.extensionschool.ch/).
 
 ```{r}
 div(

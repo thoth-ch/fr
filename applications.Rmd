@@ -17,17 +17,15 @@ div(
         width = "100"
         ),
     div(h1("sharpRISK"),
-        h4("A new generation risk management tool leveraging natural language processing")
+        h4("La nouvelle génération d'outils dans la gestion des risques industriels, supportée par le traitement naturel du langange.")
       )
     )
 ```
 
-NLP Risk Management aims transforming risk management in the manufacturing industry. 
-A demo version can be tested at the demo site:
+sharpRISK transforme le traitement des risques dans l'industrie avec de nouvelles approches dans le traitement des informations.
+Le texte capturé dans les entrées des utilisateurs est traité de manière à fournir de nouvelles interprétations des risques et faciliter la calibration des niveaux de risque. Des techniques innovates de traitement naturel du langange, analyse syntatique et sématique permettent des classifications impossibles par les approches traditionnelles. Une version de démonstration est disponible pour test dans le lien ci-dessous:
 
 [application demo](https://emergingfactory.shinyapps.io/sharprisk/)  
-
-It combines well established risk identification and mitigation approaches with natural language processing capabilities. Risk assessment and categorisation are supported by syntactic and semantic analysis of risk descriptions. 
 
 ```{r}
 div(

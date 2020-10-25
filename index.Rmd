@@ -15,8 +15,8 @@ div(
   br(),
   div(
     p(class = "centered-big", "THOTH"),
-    p(class = "centered-small", "Digitalisation of regulatory and intellectual property activities"),
-    p(class = "centered-small", "for Startups and Small Business"),
+    p(class = "centered-small", "Digitalisation des activitées de veille règlementaire et propriété intelectuelle"),
+    p(class = "centered-small", "pour Startups, Petites et Moyennes entreprises"),
   ),
   img(src = "img/quantum_computing.jpg")
 )

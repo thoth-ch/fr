@@ -4,12 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "News"
-      href: news.html
     - text: "Applications"
       href: applications.html
-    - text: "DataViz"
-      href: dataviz.html
     - text: "Contact"
       href: contact.html
 output:
