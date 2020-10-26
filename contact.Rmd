@@ -40,10 +40,10 @@ div(
         height = "100"
         ),
   div(h1("Sélim Ach"),
-        h3("Economist & Data Scientist")
+        h3("Economiste & Data Scientist")
       )
     )
 ```
 
-Sélim has more than 15 years of experience acquired in the consumer goods, aviation and consulting services. He held several positions where he was responsible for developing analytical models to transform data into valuable insights. He has a solid understanding of the challenges that many industries are currently facing in the areas of Business Analytics solutions as well as in Data Management and Governance. He holds a Master degree in Econometrics from [TSE](https://www.tse-fr.eu) and a certification in Artificial Intelligence & Business Strategy from [MIT](https://executive.mit.edu). After earning a Data Science certification, he is now specializing in Data Visualization at the Swiss technical university [EPFL](https://www.extensionschool.ch/).
+Sélim a plus de 15 ans d'expérience dans différents secteurs d'activité, en particulier dans le domaine des biens de consommation (JTI) , du transport (IATA) et en conseil en ingénierie informatique (Steria-Sopra). Il a developpé une compétence pointue en transformation digitiale et dans l'exploitation des données. Il a une connaissance transversale des enjeux liés au developpement de solutions d'aide à la décision, dans la gestion et la governance des données. Il est titulaire d'un Master en économétrie de la [TSE](https://www.tse-fr.eu) et d'une certification en intelligence artificielle appliquée à la stratégie d'entreprise du [MIT](https://executive.mit.edu). Après avoir complété un cursus en science des données, il se spécialise actuellement dans les techniques de visualisation des données à l'[EPFL](https://www.extensionschool.ch/).
 
