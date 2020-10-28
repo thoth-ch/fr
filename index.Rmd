@@ -15,10 +15,13 @@ div(
   br(),
   div(
     p(class = "centered-big", "THOTH"),
-    p(class = "centered-small", "Digitalisation des activitées de veille règlementaire et propriété intelectuelle"),
-    p(class = "centered-small", "pour Startups, Petites et Moyennes entreprises"),
+    h3("L'analyse des textes change..."),
+    # p(class = "centered-small", "pour Startups, Petites et Moyennes entreprises"),
   ),
-  img(src = "img/thoth front page V4.png")
+  img(src = "img/thoth front page V4.png"),
+  br(), br(),
+  p(class = "right-small", "Digitalisation des activitées de veille règlementaire et propriété intelectuelle"),
+  p(class = "right-small", "pour Startups, Petites et Moyennes entreprises")
 )
 ```
 
