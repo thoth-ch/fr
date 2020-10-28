@@ -20,7 +20,9 @@ div(
   br(),
   img(src = "img/JR.png",
         alt = "Jo\u00E3o Ramalho",
-        style = "border-radius: 100%"
+        style = "border-radius: 100%",
+        width = "100",
+        height = "100"
         ),
   div(h1("Jo\u00E3o Ramalho"),
         h3("Industrial Data Scientist")
@@ -33,10 +35,10 @@ João a plus de 20 ans d'expérience dans l'industrie dans nombreuses positions 
 ```{r}
 div(
   br(),
-  img(src = "img/Selim_ID_3.png",
+  img(src = "img/Selim_4.png",
         alt = "Sélim Ach",
         style = "border-radius: 100%",
-        width = "90",
+        width = "100",
         height = "100"
         ),
   div(h1("Sélim Ach"),
