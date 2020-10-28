@@ -1,5 +1,5 @@
 ---
-pagetitle: "THOTH | Home"
+pagetitle: THOTH | Home
 ---
 
 ```{r setup, echo = FALSE, message=FALSE, warning = FALSE}
@@ -18,7 +18,7 @@ div(
     p(class = "centered-small", "Digitalisation des activitées de veille règlementaire et propriété intelectuelle"),
     p(class = "centered-small", "pour Startups, Petites et Moyennes entreprises"),
   ),
-  img(src = "img/quantum_computing.jpg")
+  img(src = "img/thoth front page V4.png")
 )
 ```
 
