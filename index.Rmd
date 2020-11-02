@@ -5,8 +5,6 @@ pagetitle: THOTH | Home
 ```{r setup, echo = FALSE, message=FALSE, warning = FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 library(htmltools)
-
-# original headers color: #337AB7
 ```
 
 ```{r}
@@ -14,15 +12,13 @@ br()
 div(
   br(),
   div(
-    p(class = "centered-big", "THOTH"),
-    h3("L'analyse des textes change..."),
+  p("Le traitement de textes change...", class = "left-small"),
     # p(class = "centered-small", "pour Startups, Petites et Moyennes entreprises"),
   ),
-  img(src = "img/thoth front page V4.png"),
+  img(src = "img/thoth_fp4.jpg", style="width:1500"),
   br(), br(),
   p(class = "right-small", "Digitalisation des activitées de veille règlementaire et propriété intelectuelle"),
-  p(class = "right-small", "pour Startups, Petites et Moyennes entreprises")
+  p(class = "right-small", "pour Startups, Petites et Moyennes entreprises"),
+  p(class = "right-big", "THOTH")
 )
 ```
-
-

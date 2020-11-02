@@ -1,5 +1,5 @@
 ---
-pagetitle: THOTH | Contact
+pagetitle: THOTH - Contact
 ---
 
 ```{r setup, echo = FALSE, message=FALSE, warning = FALSE}
