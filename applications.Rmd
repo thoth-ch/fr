@@ -23,7 +23,7 @@ div(
 ```
 
 sharpRISK transforme le traitement des risques dans l'industrie avec de nouvelles approches dans le traitement des informations.
-Le texte capturé dans les entrées des utilisateurs est traité de manière à fournir de nouvelles interprétations des risques et faciliter la calibration des niveaux de risque. Des techniques innovates de traitement naturel du langange, analyse syntatique et sématique permettent des classifications impossibles par les approches traditionnelles. Une version de démonstration est disponible pour test dans le lien ci-dessous:
+Le texte capturé dans les entrées des utilisateurs est traité de manière à fournir de nouvelles interprétations des risques et faciliter la calibration des niveaux de risque. Des techniques innovantes de traitement naturel du langage, analyse syntaxique et sématique permettent des classifications impossibles par les approches traditionnelles. Une version de démonstration est disponible pour test dans le lien ci-dessous:
 
 [application demo](https://thoth.shinyapps.io/sharprisk/)  
 
