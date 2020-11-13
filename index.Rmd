@@ -17,7 +17,7 @@ div(
   ),
   img(src = "img/thoth_fp4.jpg", style="width:1500"),
   br(), br(),
-  p(class = "right-small", "Digitalisation des activitées de veille règlementaire et propriété intelectuelle"),
+  p(class = "right-small", "Digitalisation des activités de veille règlementaire et propriété intelectuelle"),
   p(class = "right-small", "pour Startups, Petites et Moyennes entreprises"),
   p(class = "right-big", "THOTH")
 )
